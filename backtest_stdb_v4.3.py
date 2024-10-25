@@ -229,6 +229,7 @@ def create_price_chart_with_signals(data, trades_df):
     # Update layout
     fig.update_layout(
         title='Price Chart with Entry/Exit Points',
+        title_font=dict(size=30),
         height=600,
         margin=dict(r=100),  # Add right margin for scroll area
         xaxis=dict(
