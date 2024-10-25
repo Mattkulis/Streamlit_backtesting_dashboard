@@ -1,3 +1,5 @@
+ensure dependancies and python env downloaded & run v2. V2is buggy but has some cool infographics i intend to include in the succeding versions.
+
 ![image](https://github.com/user-attachments/assets/9a9e7c33-afba-4a77-a592-f04c8b853838)
 
 ![image](https://github.com/user-attachments/assets/d92c13f5-9934-4f30-b62a-955eee7ea127)
