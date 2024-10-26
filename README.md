@@ -1,6 +1,9 @@
 Ensure dependancies and python env downloaded & run v2. V2is buggy but has some cool infographics i intend to include in the succeding versions.
 #The images are ytd, trailing 12mo, & 2year lookback periods for reference of strategy performance.
 
+![image](https://github.com/user-attachments/assets/5de955a9-5c3b-4011-8a77-1fd0e8baafc8)
+
+
 ![image](https://github.com/user-attachments/assets/9a9e7c33-afba-4a77-a592-f04c8b853838)
 
 ![image](https://github.com/user-attachments/assets/d92c13f5-9934-4f30-b62a-955eee7ea127)
