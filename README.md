@@ -1,4 +1,4 @@
-Ensure dependancies and python env downloaded & run v6.7 
+Ensure dependancies and python env downloaded & ensure that you are running the most up to date version. As I write this it is currently v6.8
 #The images are ytd, trailing 12mo, & 2year lookback periods for reference of strategy performance.
 
 ![image](https://github.com/user-attachments/assets/9c6d2b91-eace-4b32-89ff-8d09345b6cd8)
