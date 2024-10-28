@@ -4,13 +4,6 @@ Ensure dependancies and python env downloaded & run v2. V2is buggy but has some 
 ![image](https://github.com/user-attachments/assets/5de955a9-5c3b-4011-8a77-1fd0e8baafc8)
 
 
-![image](https://github.com/user-attachments/assets/9a9e7c33-afba-4a77-a592-f04c8b853838)
-
-![image](https://github.com/user-attachments/assets/d92c13f5-9934-4f30-b62a-955eee7ea127)
-
-![image](https://github.com/user-attachments/assets/bcc94b4f-c3fc-48ef-a77b-3d452129a6da)
-
-
 Entry Criteria:
 
 Current candle must be green (close > open)
