@@ -19,5 +19,6 @@ Execution price calculation: using the average (open + high + low + close) / 4
 
 Position sizing:
 
-Initial position is 100 shares. Program can add 100 shares up to 300 total if momentum continues
+Initial position is 100 shares. Program can add 100 shares up to 300 total if momentum continues.
+
 Program exits entire position when exit conditions are met.
