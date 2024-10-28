@@ -1,4 +1,4 @@
-Ensure dependancies and python env downloaded & run v2. V2is buggy but has some cool infographics i intend to include in the succeding versions.
+Ensure dependancies and python env downloaded & run v6.7 
 #The images are ytd, trailing 12mo, & 2year lookback periods for reference of strategy performance.
 
 ![image](https://github.com/user-attachments/assets/5de955a9-5c3b-4011-8a77-1fd0e8baafc8)
